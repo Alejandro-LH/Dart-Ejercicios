@@ -1,4 +1,55 @@
-# Ejercicios 1
+# Fundamentos de Dart
+
+Este repositorio reúne prácticas y ejemplos desarrollados en Dart, con enfoque en los conceptos básicos del lenguaje y en la resolución de ejercicios introductorios.
+
+El objetivo del proyecto es documentar el proceso de aprendizaje y servir como referencia para temas como sintaxis básica, manejo de variables, operaciones aritméticas, uso de clases, funciones y validaciones simples.
+
+## Contenido
+
+El repositorio incluye ejercicios y ejemplos relacionados con:
+
+- estructura básica de un programa en Dart
+- declaración de variables y tipos de datos
+- interpolación de cadenas
+- operaciones aritméticas
+- uso de funciones
+- definición y uso de clases
+- parámetros y argumentos
+- validaciones condicionales
+- uso de bibliotecas como `dart:math`
+
+## Propósito
+
+Este material está pensado como apoyo académico y de práctica personal. La intención es mostrar ejercicios sencillos pero útiles para reforzar la lógica de programación y la comprensión de la sintaxis de Dart.
+
+## Tecnologías
+
+- Dart
+
+## Cómo usar este repositorio
+
+1. Instala el SDK de Dart.
+2. Abre los archivos del proyecto en tu editor.
+3. Ejecuta los ejemplos desde terminal con:
+
+```bash
+dart run
+```
+
+Si el archivo es independiente, también puedes ejecutarlo con:
+
+```bash
+dart <nombre_del_archivo>.dart
+```
+
+## Enfoque del repositorio
+
+Este repositorio está orientado a práctica y aprendizaje, por lo que el código prioriza la claridad de los ejemplos sobre la complejidad de la implementación.
+
+## Nota
+
+Los ejercicios aquí incluidos forman parte de un proceso de formación en programación y pueden seguir ampliándose o refinándose con el tiempo.
+
 
 ### Código #1:
 
